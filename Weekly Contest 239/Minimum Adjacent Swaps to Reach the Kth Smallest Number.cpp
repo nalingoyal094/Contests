@@ -50,3 +50,5 @@ public:
         
     }
 };
+
+//o(n*n) for swapping and o(n*k) for finding kth permutation
